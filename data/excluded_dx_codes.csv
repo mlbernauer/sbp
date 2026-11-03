@@ -1,0 +1,50 @@
+long_title,icd_code,icd_version
+Other suppurative peritonitis,56729  ,9
+Malignant ascites,78951  ,9
+Malignant ascites,R180   ,10
+Perforation of intestine (nontraumatic),K631   ,10
+Pseudocyst of pancreas,K863   ,10
+Malignant neoplasm of body of pancreas,1571   ,9
+Malignant neoplasm of body of pancreas,C251   ,10
+Secondary malignant neoplasm of retroperitoneum and peritoneum,1976   ,9
+Secondary malignant neoplasm of retroperitoneum and peritoneum,C786   ,10
+Complications of transplanted liver,99682  ,9
+"Malignant neoplasm of liver, primary",1550   ,9
+"Surgical operation with transplant of whole organ as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",Y830   ,10
+Abscess of liver,5720   ,9
+Abscess of liver,K750   ,10
+Other postprocedural complications and disorders of digestive system,K9189  ,10
+"Malignant neoplasm of pancreas, unspecified",C259   ,10
+Perforation of intestine,56983  ,9
+Secondary malignant neoplasm of other digestive organs,C7889  ,10
+Secondary malignant neoplasm of liver and intrahepatic bile duct,C787   ,10
+"Surgical operation with transplant of whole organ causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",E8780  ,9
+Malignant neoplasm of head of pancreas,1570   ,9
+Malignant neoplasm of head of pancreas,C250   ,10
+Secondary malignant neoplasm of unspecified lung,C7800  ,10
+"Acute pancreatitis without necrosis or infection, unspecified",K8590  ,10
+Other chronic pancreatitis,K861   ,10
+Acute cholecystitis,5750   ,9
+Acute cholecystitis,K810   ,10
+Other specified diseases of pancreas,5778   ,9
+Other specified diseases of pancreas,K868   ,10
+Other specified diseases of pancreas,K8689  ,10
+Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes,1962   ,9
+Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes,C772   ,10
+"Malignant neoplasm of liver, secondary",1977   ,9
+Malignant pleural effusion,51181  ,9
+Malignant pleural effusion,J910   ,10
+Cholangitis,5761   ,9
+Cholangitis,K830   ,10
+Cyst and pseudocyst of pancreas,5772   ,9
+"Removal of other organ (partial) (total) as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",Y836   ,10
+Secondary malignant neoplasm of other specified sites,19889  ,9
+Secondary malignant neoplasm of other specified sites,C798   ,10
+Secondary malignant neoplasm of other specified sites,C7989  ,10
+"Removal of other organ (partial) (total) causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",E8786  ,9
+Acute pancreatitis,5770   ,9
+Acute pancreatitis,K85    ,10
+"Other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",Y838   ,10
+Secondary malignant neoplasm of lung,1970   ,9
+Secondary malignant neoplasm of lung,C780   ,10
+Chronic pancreatitis,5771   ,9

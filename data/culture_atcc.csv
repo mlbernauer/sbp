@@ -1,0 +1,32 @@
+ab_name,atc,desc
+AMIKACIN,J01GB06,Other aminoglycosides
+AMPICILLIN,J01CA01,Penicillins with extended spectrum
+AMPICILLIN/SULBACTAM,J01CR01,"Combinations of penicillins, incl. beta-lactamase inhibitors"
+CASPOFUNGIN,J02AX04,Other antimycotics for systemic use
+CEFAZOLIN,J01DB04,First-generation cephalosporins
+CEFEPIME,J01DE01,Fourth-generation cephalosporins
+CEFTAZIDIME,J01DD02,Third-generation cephalosporins
+CEFTRIAXONE,J01DD04,Third-generation cephalosporins
+CEFUROXIME,J01DC02,Second-generation cephalosporins
+CIPROFLOXACIN,J01MA02,Fluoroquinolones
+CLINDAMYCIN,J01FF01,Lincosamides
+DAPTOMYCIN,J01XX09,Other antibacterials
+DOXYCYCLINE,J01AA02,Tetracyclines
+ERYTHROMYCIN,J01FA01,Macrolides
+FLUCONAZOLE,J02AC01,Triazole derivatives
+GENTAMICIN,J01GB03,Other aminoglycosides
+IMIPENEM,J01DH51,Carbapenems
+LEVOFLOXACIN,J01MA12,Fluoroquinolones
+LINEZOLID,J01XX08,Other antibacterials
+MEROPENEM,J01DH02,Carbapenems
+MICAFUNGIN,J02AX05,Other antimycotics for systemic use
+OMADACYCLINE,J01AA15,Tetracyclines
+OXACILLIN,J01CF04,Beta-lactamase resistant penicillins
+PENICILLIN G,J01CE01,Beta-lactamase sensitive penicillins
+PIPERACILLIN,J01CA12,Penicillins with extended spectrum
+PIPERACILLIN/TAZO,J01CR05,"Combinations of penicillins, incl. beta-lactamase inhibitors"
+RIFAMPIN,J04AB02,Antibiotics (drugs for treatment of tuberculosis)
+TETRACYCLINE,J01AA07,Tetracyclines
+TOBRAMYCIN,J01GB01,Other aminoglycosides
+TRIMETHOPRIM/SULFA,J01EE01,"Combinations of sulfonamides and trimethoprim, incl. derivatives"
+VANCOMYCIN,J01XA01,Glycopeptide antibacterials

@@ -1,0 +1,12 @@
+HOW TO READ THIS SHEET
+"Intrinsic resistance is expressed as WHO ATC codes. The 7-character column gives the specific drugs the organism is intrinsically resistant to (precise). The 5-character column gives the level 4 class of those drugs; a class may include other drugs that are still active (e.g. J01CA includes ampicillin, which Klebsiella resists, and piperacillin, which it does not), so use the 7-character column when precision matters."
+"Source basis: CLSI M100 Appendix B and EUCAST Expected Resistant Phenotypes, summarized from memory, plus published literature where those are silent. Rows with Low confidence are shaded orange."
+""
+"BASELINE CODES (apply to every organism in the stated group, in addition to the organism-specific codes)"
+"Gram-negative bacilli: vancomycin J01XA01, teicoplanin J01XA02, daptomycin J01XX09, linezolid J01XX08, clindamycin J01FF01, lincomycin J01FF02, penicillin G J01CE01; limited activity of macrolides (J01FA) and fusidic acid (J01XC01)."
+"Gram-positive bacteria: aztreonam J01DF01, colistin J01XB01, polymyxin B J01XB02, nalidixic acid J01MB02, temocillin J01CA17."
+Fungi: baseline not applicable.
+""
+ATC CODE CAVEATS
+"Imipenem is coded J01DH51 (imipenem + cilastatin). Cefoxitin is J01DC01. ATC codes are assigned to substances, not to resistance, so these are the codes of the drugs affected. Novobiocin is not included because I could not confirm an ATC code for it."
+Please verify against the WHO ATC/DDD Index (atcddd.fhi.no) and current CLSI/EUCAST tables before clinical or regulatory use.

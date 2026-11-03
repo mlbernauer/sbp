@@ -1,0 +1,174 @@
+long_title,icd_code,icd_version
+Transplant from live non-related donor,0092   ,9
+Transplant from cadaver,0093   ,9
+"Dilation of Superior Mesenteric Artery with Intraluminal Device, Percutaneous Approach",04753DZ,10
+"Repair Celiac Artery, Open Approach",04Q10ZZ,10
+"Extirpation of Matter from Abdominal Aorta, Bifurcation, Open Approach",04C00Z6,10
+"Replacement of Abdominal Aorta with Synthetic Substitute, Open Approach",04R00JZ,10
+"Restriction of Hepatic Artery with Intraluminal Device, Percutaneous Approach",04V33DZ,10
+"Restriction of Splenic Artery with Intraluminal Device, Percutaneous Approach",04V43DZ,10
+"Restriction of Left Colic Artery with Intraluminal Device, Percutaneous Approach",04V73DZ,10
+"Bypass Portal Vein to Lower Vein, Open Approach",06180ZY,10
+"Supplement Hepatic Vein with Autologous Tissue Substitute, Open Approach",06U407Z,10
+"Excision of Mesenteric Lymphatic, Open Approach",07BB0ZZ,10
+"Excision of Pelvis Lymphatic, Open Approach, Diagnostic",07BC0ZX,10
+"Excision of Pelvis Lymphatic, Open Approach",07BC0ZZ,10
+"Resection of Spleen, Open Approach",07TP0ZZ,10
+"Bypass Stomach to Cutaneous with Autologous Tissue Substitute, Open Approach",0D16074,10
+"Bypass Ileum to Cutaneous, Open Approach",0D1B0Z4,10
+"Bypass Ileum to Cecum, Open Approach",0D1B0ZH,10
+"Bypass Transverse Colon to Cutaneous, Open Approach",0D1L0Z4,10
+"Bypass Descending Colon to Cutaneous, Open Approach",0D1M0Z4,10
+"Bypass Sigmoid Colon to Cutaneous, Percutaneous Endoscopic Approach",0D1N4Z4,10
+"Dilation of Stomach, Via Natural or Artificial Opening Endoscopic",0D768ZZ,10
+"Dilation of Jejunum, Via Natural or Artificial Opening Endoscopic",0D7A8ZZ,10
+"Drainage of Stomach with Drainage Device, Percutaneous Approach",0D9630Z,10
+"Drainage of Stomach, Percutaneous Approach, Diagnostic",0D963ZX,10
+"Drainage of Peritoneum with Drainage Device, Percutaneous Approach",0D9W30Z,10
+"Excision of Esophagus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0DB58ZX,10
+"Excision of Stomach, Pylorus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0DB78ZX,10
+"Excision of Small Intestine, Open Approach",0DB80ZZ,10
+"Excision of Duodenum, Open Approach",0DB90ZZ,10
+"Excision of Duodenum, Via Natural or Artificial Opening Endoscopic, Diagnostic",0DB98ZX,10
+"Excision of Jejunum, Open Approach",0DBA0ZZ,10
+"Excision of Ileum, Open Approach",0DBB0ZZ,10
+"Excision of Cecum, Open Approach",0DBH0ZZ,10
+"Excision of Transverse Colon, Open Approach",0DBL0ZZ,10
+"Excision of Sigmoid Colon, Open Approach",0DBN0ZZ,10
+"Excision of Greater Omentum, Percutaneous Approach, Diagnostic",0DBS3ZX,10
+"Excision of Lesser Omentum, Percutaneous Approach, Diagnostic",0DBT3ZX,10
+"Excision of Omentum, Open Approach",0DBU0ZZ,10
+"Excision of Omentum, Percutaneous Approach, Diagnostic",0DBU3ZX,10
+"Excision of Peritoneum, Percutaneous Approach, Diagnostic",0DBW3ZX,10
+"Insertion of Feeding Device into Jejunum, Open Approach",0DHA0UZ,10
+"Release Small Intestine, Open Approach",0DN80ZZ,10
+"Release Small Intestine, Percutaneous Endoscopic Approach",0DN84ZZ,10
+"Release Large Intestine, Open Approach",0DNE0ZZ,10
+"Release Peritoneum, Open Approach",0DNW0ZZ,10
+"Release Peritoneum, Percutaneous Endoscopic Approach",0DNW4ZZ,10
+"Repair Stomach, Open Approach",0DQ60ZZ,10
+"Repair Jejunum, Open Approach",0DQA0ZZ,10
+"Reposition Small Intestine, Open Approach",0DS80ZZ,10
+"Resection of Right Large Intestine, Open Approach",0DTF0ZZ,10
+"Resection of Left Large Intestine, Open Approach",0DTG0ZZ,10
+"Resection of Cecum, Open Approach",0DTH0ZZ,10
+"Resection of Cecum, Percutaneous Endoscopic Approach",0DTH4ZZ,10
+"Resection of Appendix, Open Approach",0DTJ0ZZ,10
+"Resection of Rectum, Open Approach",0DTP0ZZ,10
+"Bypass Left Hepatic Duct to Small Intestine, Open Approach",0F160ZB,10
+"Dilation of Right Hepatic Duct with Intraluminal Device, Percutaneous Approach",0F753DZ,10
+"Dilation of Common Hepatic Duct with Intraluminal Device, Via Natural or Artificial Opening Endoscopic",0F778DZ,10
+"Dilation of Common Bile Duct with Intraluminal Device, Percutaneous Approach",0F793DZ,10
+"Dilation of Common Bile Duct, Percutaneous Approach",0F793ZZ,10
+"Dilation of Common Bile Duct, Via Natural or Artificial Opening Endoscopic",0F798ZZ,10
+"Drainage of Gallbladder with Drainage Device, Percutaneous Approach",0F9430Z,10
+"Drainage of Gallbladder with Drainage Device, Via Natural or Artificial Opening Endoscopic",0F9480Z,10
+"Drainage of Left Hepatic Duct with Drainage Device, Percutaneous Approach",0F9630Z,10
+"Drainage of Pancreas with Drainage Device, Percutaneous Endoscopic Approach",0F9G40Z,10
+"Excision of Liver, Open Approach",0FB00ZZ,10
+"Excision of Right Lobe Liver, Open Approach, Diagnostic",0FB10ZX,10
+"Excision of Right Lobe Liver, Percutaneous Endoscopic Approach, Diagnostic",0FB14ZX,10
+"Excision of Left Lobe Liver, Open Approach, Diagnostic",0FB20ZX,10
+"Excision of Left Lobe Liver, Open Approach",0FB20ZZ,10
+"Excision of Left Lobe Liver, Percutaneous Approach, Diagnostic",0FB23ZX,10
+"Excision of Left Lobe Liver, Percutaneous Endoscopic Approach, Diagnostic",0FB24ZX,10
+"Excision of Gallbladder, Open Approach",0FB40ZZ,10
+"Excision of Left Hepatic Duct, Open Approach",0FB60ZZ,10
+"Excision of Common Bile Duct, Open Approach",0FB90ZZ,10
+"Excision of Pancreas, Open Approach",0FBG0ZZ,10
+"Excision of Pancreas, Via Natural or Artificial Opening Endoscopic, Diagnostic",0FBG8ZX,10
+"Repair Liver, Open Approach",0FQ00ZZ,10
+"Resection of Right Lobe Liver, Open Approach",0FT10ZZ,10
+"Resection of Right Lobe Liver, Percutaneous Endoscopic Approach",0FT14ZZ,10
+"Resection of Gallbladder, Open Approach",0FT40ZZ,10
+"Resection of Gallbladder, Percutaneous Endoscopic Approach",0FT44ZZ,10
+"Transplantation of Liver, Allogeneic, Open Approach",0FY00Z0,10
+"Release Abdomen Subcutaneous Tissue and Fascia, Open Approach",0JN80ZZ,10
+"Repair Abdomen Subcutaneous Tissue and Fascia, Open Approach",0JQ80ZZ,10
+"Transplantation of Right Kidney, Allogeneic, Open Approach",0TY00Z0,10
+"Control Bleeding in Abdominal Wall, Open Approach",0W3F0ZZ,10
+"Control Bleeding in Retroperitoneum, Open Approach",0W3H0ZZ,10
+"Control Bleeding in Pelvic Cavity, Open Approach",0W3J0ZZ,10
+"Control Bleeding in Gastrointestinal Tract, Open Approach",0W3P0ZZ,10
+"Control Bleeding in Gastrointestinal Tract, Percutaneous Endoscopic Approach",0W3P4ZZ,10
+"Drainage of Peritoneal Cavity, Open Approach",0W9G0ZZ,10
+"Drainage of Retroperitoneum with Drainage Device, Percutaneous Approach",0W9H30Z,10
+"Drainage of Retroperitoneum, Percutaneous Approach",0W9H3ZZ,10
+"Drainage of Pelvic Cavity with Drainage Device, Percutaneous Approach",0W9J30Z,10
+"Drainage of Pelvic Cavity, Percutaneous Approach",0W9J3ZZ,10
+"Excision of Retroperitoneum, Open Approach",0WBH0ZZ,10
+"Extirpation of Matter from Retroperitoneum, Open Approach",0WCH0ZZ,10
+"Inspection of Peritoneal Cavity, Open Approach",0WJG0ZZ,10
+"Inspection of Gastrointestinal Tract, Open Approach",0WJP0ZZ,10
+"Removal of Synthetic Substitute from Abdominal Wall, Open Approach",0WPF0JZ,10
+"Removal of Infusion Device from Peritoneal Cavity, Open Approach",0WPG03Z,10
+"Repair Abdominal Wall, Open Approach",0WQF0ZZ,10
+"Repair Abdominal Wall, External Approach",0WQFXZZ,10
+Removal of Other Device on Abdominal Wall,2W53XYZ,10
+Other operations on diaphragm,3489   ,9
+Intra-abdominal venous shunt,391    ,9
+Total splenectomy,415    ,9
+Total esophagectomy,4242   ,9
+Other gastrostomy,4319   ,9
+Partial gastrectomy with anastomosis to jejunum,437    ,9
+Other total gastrectomy,4399   ,9
+Percutaneous [endoscopic] gastrojejunostomy,4432   ,9
+Suture of duodenal ulcer site,4442   ,9
+Other incision of small intestine,4502   ,9
+Endoscopic destruction of other lesion or tissue of large intestine,4543   ,9
+Other partial resection of small intestine,4562   ,9
+Open and other left hemicolectomy,4575   ,9
+Open and other sigmoidectomy,4576   ,9
+Other and unspecified partial excision of large intestine,4579   ,9
+Small-to-small intestinal anastomosis,4591   ,9
+Other small-to-large intestinal anastomosis,4593   ,9
+Exteriorization of small intestine,4601   ,9
+"Colostomy, not otherwise specified",4610   ,9
+"Ileostomy, not otherwise specified",4620   ,9
+Temporary ileostomy,4621   ,9
+Other enterostomy,4639   ,9
+"Suture of laceration of small intestine, except duodenum",4673   ,9
+Other appendectomy,4709   ,9
+Open abdominoperineal resection of the rectum,4852   ,9
+Other anterior resection of rectum,4863   ,9
+Open biopsy of liver,5012   ,9
+Laparoscopic liver biopsy,5014   ,9
+Partial hepatectomy,5022   ,9
+Lobectomy of liver,503    ,9
+Other transplant of liver,5059   ,9
+Closure of laceration of liver,5061   ,9
+Cholecystectomy,5122   ,9
+Laparoscopic cholecystectomy,5123   ,9
+Choledochoenterostomy,5136   ,9
+Anastomosis of hepatic duct to gastrointestinal tract,5137   ,9
+Incision of other bile ducts for relief of obstruction,5149   ,9
+Exploration of common duct,5151   ,9
+Excision of other bile duct,5169   ,9
+Endoscopic removal of stone(s) from biliary tract,5188   ,9
+Other pancreatotomy,5209   ,9
+Other partial pancreatectomy,5259   ,9
+Radical pancreaticoduodenectomy,527    ,9
+Other and open repair of indirect inguinal hernia,5302   ,9
+Other and open repair of umbilical hernia with graft or prosthesis,5341   ,9
+Incisional hernia repair,5351   ,9
+Other and open repair of other hernia of anterior abdominal wall with graft or prosthesis,5369   ,9
+Exploratory laparotomy,5411   ,9
+Reopening of recent laparotomy site,5412   ,9
+Other laparotomy,5419   ,9
+Laparoscopy,5421   ,9
+Biopsy of peritoneum,5423   ,9
+Peritoneal lavage,5425   ,9
+Excision or destruction of lesion or tissue of abdominal wall or umbilicus,543    ,9
+Excision or destruction of peritoneal tissue,544    ,9
+Laparoscopic lysis of peritoneal adhesions,5451   ,9
+Other lysis of peritoneal adhesions,5459   ,9
+Other repair of omentum,5474   ,9
+Creation of cutaneoperitoneal fistula,5493   ,9
+Other operations of abdominal region,5499   ,9
+Other kidney transplantation,5569   ,9
+Ureteroneocystostomy,5674   ,9
+Suture of laceration of ureter,5682   ,9
+Other local excision or destruction of ovary,6529   ,9
+Other unilateral salpingo-oophorectomy,6549   ,9
+Other removal of both ovaries and tubes at same operative episode,6561   ,9
+Other and unspecified total abdominal hysterectomy,6849   ,9
